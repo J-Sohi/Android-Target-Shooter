@@ -2,7 +2,7 @@
 
 This Android app is part of a project for the course Mobile User Interfaces at York University.
 
-The purpose of this game is to record performance and allow comparision between two control methods. After a round, results are displayed on screen and recorded in a text file in the "Podcasts" folder of the device.
+The purpose of this game is to record performance and allow comparison between two control methods. After a round, results are displayed on screen and recorded in a text file in the "Podcasts" folder of the device.
 
 
 ## Practice Mode
